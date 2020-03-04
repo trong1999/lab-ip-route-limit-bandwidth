@@ -2,6 +2,7 @@
 - Nếu việc upload file lên server, mail server,... nó chiếm rất nhiều bandwidth của hệ thống, điều làm ảnh hưởng rất nhiều đến
 các hoạt động khác của hệ thống.
 - Yêu cầu là nếu upload một file này từ server này sang server kia, chỉ cho tốc độ là 1.12MB/s
+- Nếu để limit trong mạng LAN thì c
 - Để giải quyết vấn đề này, tôi sẽ giới thiệu đến các bạn một tool được sử dụng khá phổ biến hiện nay đó là 
 Traffic Controller (tc)
 # Giải quyết vấn đề
